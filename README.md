@@ -3,7 +3,15 @@
 As you might already know,  
 **Pico CSS is [officially](https://picocss.com/docs/maintenance) no longer maintained — <mark>but:</mark>**
 
-## Development continues under [Blades CSS](https://github.com/anyblades/blades) fork.
+## Development continues under [Blades CSS](https://github.com/anyblades/blades):
+
+| Homepage:             | https://blades.dev/                                    |
+| --------------------- | ------------------------------------------------------ |
+| Documentation:        | https://blades.dev/#docs                               |
+| Source code:          | https://github.com/anyblades/blades                    |
+| Underlying Pico fork: | https://github.com/anyblades/blades/tree/main/src/pico |
+
+---
 
 > [!IMPORTANT]
 > **Work in progress** — information below is under review:
