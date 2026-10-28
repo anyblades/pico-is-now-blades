@@ -1,8 +1,7 @@
 <!--section:docs-->
 
 As you might already know,  
-**Pico CSS is officially [no longer maintained](https://picocss.com/docs/maintenance)**,  
-<mark>but:</mark>
+**Pico CSS is [officially](https://picocss.com/docs/maintenance) no longer maintained — <mark>but:</mark>**
 
 ## Development continues under [Blades CSS](https://github.com/anyblades/blades) fork.
 
