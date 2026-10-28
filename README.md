@@ -1,5 +1,14 @@
 <!--section:docs-->
 
+As you might already know,  
+**Pico CSS is officially [no longer maintained](https://picocss.com/docs/maintenance)**,  
+<mark>but:</mark>
+
+## Development continues under [Blades CSS](https://github.com/anyblades/blades) fork.
+
+> [!IMPORTANT]
+> **Work in progress** — information below is under review:
+
 > [!NOTE]
 > This is a community-driven successor to the [Pico CSS framework](https://github.com/picocss/pico) with a few simple goals:
 >
@@ -180,3 +189,6 @@ Pico CSS is designed and tested for the latest stable Chrome, Firefox, Edge, and
 ## Copyright and license
 
 Licensed under the [MIT License](https://github.com/anyblades/pico/blob/master/LICENSE.md).
+
+<!--
+-->
