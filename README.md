@@ -31,8 +31,9 @@ Blades CSS:
 
 <br>
 
-**🥷 blades<sup>✨</sup>**  
-Same spirit, new home.
+**blades<sup>✨</sup>**  
+Same spirit, new home.  
+🥷
 
 <!--
 > [!IMPORTANT]

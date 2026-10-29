@@ -1,4 +1,4 @@
 [submodule "src"]
 	path = src
 	url = https://github.com/anyblades/blades
-	branch = v3
+	branch = main
