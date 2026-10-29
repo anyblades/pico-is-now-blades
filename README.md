@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > As you might already know,  
-> **Pico CSS is [officially](https://picocss.com/docs/maintenance) no longer maintained — <mark>but:</mark>**
+> **Pico CSS is [officially](//picocss.com/docs/maintenance) no longer maintained — <mark>but:</mark>**
 
 ## Development continues under [Blades CSS](https://github.com/anyblades/blades)
 
@@ -12,7 +12,7 @@
 | Source code:          | https://github.com/anyblades/blades                    |
 | Underlying Pico fork: | https://github.com/anyblades/blades/tree/main/src/pico |
 
----
+Blades CSS:
 
 1. **Focuses** exclusively on the `pico.css` version, similar to how [simple.css](https://github.com/kevquirk/simple.css) is maintained (for Sass version check [@Yohn's fork](https://github.com/Yohn/PicoCSS) instead).
 2. **Keeps** all net new features in https://github.com/anyblades/blades, shipped as `blades.css` — a drop-in compatible replacement for `pico.css`.
@@ -28,8 +28,6 @@
 - [#696 🛠️ Missing styling for `<var>` element](https://github.com/picocss/pico/issues/696) + [#695](https://github.com/picocss/pico/discussions/695)
 - [#670 🐞 Slow website picocss.com](https://github.com/picocss/pico/issues/670) + [#718](https://github.com/picocss/pico/pull/718) (`box-shadow` performance issues)
 - [#513 🐞 Image element attribute height is overridden](https://github.com/picocss/pico/issues/513)
-
----
 
 <br>
 
