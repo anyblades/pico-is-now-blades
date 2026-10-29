@@ -2,7 +2,7 @@
 > As you might already know,  
 > **Pico CSS is [officially](//picocss.com/docs/maintenance) no longer maintained — <mark>but:</mark>**
 
-## Development continues under [Blades CSS](//github.com/anyblades/blades)
+### Development continues under [Blades CSS](//github.com/anyblades/blades) 🎉
 
 | Homepage:             | https://blades.dev/                                    |
 | --------------------- | ------------------------------------------------------ |
@@ -10,7 +10,9 @@
 | Source code:          | https://github.com/anyblades/blades                    |
 | Underlying Pico fork: | https://github.com/anyblades/blades/tree/main/src/pico |
 
-## What's fixed?
+---
+
+### What's fixed?
 
 Blades focuses exclusively on the `pico.css` version, similar to how [simple.css](https://github.com/kevquirk/simple.css) is maintained (for Sass version check [@Yohn's fork](https://github.com/Yohn/PicoCSS) instead).
 
@@ -37,19 +39,25 @@ Every Blades build includes the actual `.diff` with exact changes against "canon
 - https://github.com/anyblades/blades/blob/main/css/pico.css.diff
 - https://github.com/anyblades/blades/blob/main/css/pico.min.css.diff
 
-## What's new?
+---
+
+### What's new?
 
 See https://blades.dev/#docs marked with <mark>NEW</mark>.
 
 All shipped as `blades.css` — a drop-in compatible replacement for `pico.css`.
 
-## How to migrate?
+---
+
+### How to migrate?
 
 Just switch `pico.css` to `blades.css`— and voilà!
 
 [**Get started →**](//blades.dev/css/)
 
-<br><br>
+---
+
+<br>
 
 # blades<sup>✨</sup> <br><sup><sub>Same spirit, new home.</sub></sup>
 
