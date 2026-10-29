@@ -29,8 +29,8 @@ Pico issues fixed in Blades:
 
 See fixes in action:
 
-1. Demo: [`@picocss/pico` issues reproduced](https://codepen.io/anydigital/full/WbGgbJd) (where applicable)
-2. Demo: [`@anyblades/blades` with exact same markup](https://codepen.io/anydigital/full/YPGOXWV) (no issues!)
+1. Demo: [@picocss/pico issues reproduced](https://codepen.io/anydigital/full/WbGgbJd) (where applicable)
+2. Demo: [@anyblades/blades running without issues](https://codepen.io/anydigital/full/YPGOXWV) (on exact same markup!)
 
 Every Blades build includes the actual `.diff` with exact changes against "canonical" `pico.css`:
 
