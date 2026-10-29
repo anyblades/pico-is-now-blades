@@ -1,5 +1,3 @@
-<!--section:docs-->
-
 > [!NOTE]
 > As you might already know,  
 > **Pico CSS is [officially](//picocss.com/docs/maintenance) no longer maintained — <mark>but:</mark>**
@@ -29,10 +27,10 @@ Pico issues fixed in Blades:
 - [#670 🐞 Slow website picocss.com](https://github.com/picocss/pico/issues/670) + [#718](https://github.com/picocss/pico/pull/718) (`box-shadow` performance issues)
 - [#513 🐞 Image element attribute height is overridden](https://github.com/picocss/pico/issues/513)
 
-Demo of Pico issues and Blades fixes:
+See fixes in action:
 
-1. `@picocss/pico` issues reproduced: https://codepen.io/anydigital/full/WbGgbJd (where applicable)
-2. `@anyblades/blades` fixes in action: https://codepen.io/anydigital/full/YPGOXWV
+1. Demo: [`@picocss/pico` issues reproduced](https://codepen.io/anydigital/full/WbGgbJd) (where applicable)
+2. Demo: [`@anyblades/blades` with exact same markup](https://codepen.io/anydigital/full/YPGOXWV) (no issues!)
 
 Every Blades build includes the actual `.diff` with exact changes against "canonical" `pico.css`:
 
