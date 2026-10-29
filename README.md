@@ -4,7 +4,7 @@
 > As you might already know,  
 > **Pico CSS is [officially](//picocss.com/docs/maintenance) no longer maintained — <mark>but:</mark>**
 
-## Development continues under [Blades CSS](https://github.com/anyblades/blades)
+## Development continues under [Blades CSS](//github.com/anyblades/blades)
 
 | Homepage:             | https://blades.dev/                                    |
 | --------------------- | ------------------------------------------------------ |
@@ -12,11 +12,11 @@
 | Source code:          | https://github.com/anyblades/blades                    |
 | Underlying Pico fork: | https://github.com/anyblades/blades/tree/main/src/pico |
 
-Blades CSS:
+## What's fixed?
 
-1. **Focuses** exclusively on the `pico.css` version, similar to how [simple.css](https://github.com/kevquirk/simple.css) is maintained (for Sass version check [@Yohn's fork](https://github.com/Yohn/PicoCSS) instead).
-2. **Keeps** all net new features in https://github.com/anyblades/blades, shipped as `blades.css` — a drop-in compatible replacement for `pico.css`.
-3. **Includes** [various fixes](https://codepen.io/anydigital/full/YPGOXWV) for [original @picocss/pico issues](https://codepen.io/anydigital/full/WbGgbJd): <!--Z-A-->
+Blades focuses exclusively on the `pico.css` version, similar to how [simple.css](https://github.com/kevquirk/simple.css) is maintained (for Sass version check [@Yohn's fork](https://github.com/Yohn/PicoCSS) instead).
+
+Pico issues fixed in Blades:
 
 - [#738 🐞 Submit button margin affecting siblings within .grid](https://github.com/picocss/pico/issues/738)
 - [#734 🐞 RTL breadcrumbs add weird backslashes](https://github.com/picocss/pico/issues/734)
@@ -29,10 +29,32 @@ Blades CSS:
 - [#670 🐞 Slow website picocss.com](https://github.com/picocss/pico/issues/670) + [#718](https://github.com/picocss/pico/pull/718) (`box-shadow` performance issues)
 - [#513 🐞 Image element attribute height is overridden](https://github.com/picocss/pico/issues/513)
 
-<br>
+Demo of Pico issues and Blades fixes:
 
-**blades<sup>✨</sup>**  
-Same spirit, new home.  
+1. `@picocss/pico` issues reproduced: https://codepen.io/anydigital/full/WbGgbJd (where applicable)
+2. `@anyblades/blades` fixes in action: https://codepen.io/anydigital/full/YPGOXWV
+
+Every Blades build includes the actual `.diff` with exact changes against "canonical" `pico.css`:
+
+- https://github.com/anyblades/blades/blob/main/css/pico.css.diff
+- https://github.com/anyblades/blades/blob/main/css/pico.min.css.diff
+
+## What's new?
+
+See https://blades.dev/#docs marked with <mark>NEW</mark>.
+
+All shipped as `blades.css` — a drop-in compatible replacement for `pico.css`.
+
+## How to migrate?
+
+Just switch `pico.css` to `blades.css`— and voilà!
+
+[**Get started →**](//blades.dev/css/)
+
+<br><br>
+
+# blades<sup>✨</sup> <br><sup><sub>Same spirit, new home.</sub></sup>
+
 🥷
 
 <!--
