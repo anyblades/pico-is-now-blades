@@ -18,6 +18,7 @@ Blades focuses exclusively on the `pico.css` version, similar to how [simple.css
 
 Pico issues fixed in Blades:
 
+- [#751 🛠️ Button focus ring measures 1.77:1 (light) and 2.01:1 (dark), where SC 1.4.11 asks 3:1](https://github.com/picocss/pico/issues/751)
 - [#738 🐞 Submit button margin affecting siblings within .grid](https://github.com/picocss/pico/issues/738)
 - [#734 🐞 RTL breadcrumbs add weird backslashes](https://github.com/picocss/pico/issues/734)
 - [#733 🐞 Fix for datetime input width within groups within grids on medium breakpoint](https://github.com/picocss/pico/issues/733)
