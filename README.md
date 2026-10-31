@@ -19,6 +19,7 @@ Blades focuses exclusively on the `pico.css` version, similar to how [simple.css
 Pico issues fixed in Blades:
 
 - [#751 🛠️ Button focus ring measures 1.77:1 (light) and 2.01:1 (dark), where SC 1.4.11 asks 3:1](https://github.com/picocss/pico/issues/751)
+- [#744 🧩 Proposal: Classless Dropdown component leveraging Popover API](https://github.com/picocss/pico/discussions/744)
 - [#740 🛠️ Remove nonessential npm-run-all dependency to reduce supply chain attack surface](https://github.com/picocss/pico/issues/740)
 - [#738 🐞 Submit button margin affecting siblings within .grid](https://github.com/picocss/pico/issues/738)
 - [#734 🐞 RTL breadcrumbs add weird backslashes](https://github.com/picocss/pico/issues/734)
@@ -30,6 +31,7 @@ Pico issues fixed in Blades:
 - [#696 🛠️ Missing styling for `<var>` element](https://github.com/picocss/pico/issues/696) + [#695](https://github.com/picocss/pico/discussions/695)
 - [#670 🐞 Slow website picocss.com](https://github.com/picocss/pico/issues/670) + [#718](https://github.com/picocss/pico/pull/718) (`box-shadow` performance issues)
 - [#513 🐞 Image element attribute height is overridden](https://github.com/picocss/pico/issues/513)
+- [#482 🧩 PicoCSS Scale](https://github.com/picocss/pico/discussions/482)
 
 See fixes in action:
 
