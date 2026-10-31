@@ -33,6 +33,8 @@ Pico issues resolved in Blades:
 - [#513 🐞 Image element attribute height is overridden](https://github.com/picocss/pico/issues/513)
 - [#482 🧩 Pico CSS Scale](https://github.com/picocss/pico/discussions/482)
 
+<!--{.markerless}-->
+
 See fixes in action:
 
 1. Demo: [@picocss/pico issues reproduced](https://codepen.io/anydigital/full/WbGgbJd) (where applicable)
