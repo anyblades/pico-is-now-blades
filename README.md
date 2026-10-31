@@ -16,7 +16,7 @@
 
 Blades focuses exclusively on the `pico.css` version, similar to how [simple.css](https://github.com/kevquirk/simple.css) is maintained (for Sass version check [@Yohn's fork](https://github.com/Yohn/PicoCSS) instead).
 
-Pico issues fixed in Blades:
+Pico issues resolved in Blades:
 
 - [#751 🛠️ Button focus ring measures 1.77:1 (light) and 2.01:1 (dark), where SC 1.4.11 asks 3:1](https://github.com/picocss/pico/issues/751)
 - [#744 🧩 Proposal: Classless Dropdown component leveraging Popover API](https://github.com/picocss/pico/discussions/744)
@@ -29,9 +29,9 @@ Pico issues fixed in Blades:
 - [#721 🛠️ Possible duplicate of text-align property inside the same element selector](https://github.com/picocss/pico/issues/721)
 - [#701 🐞 Nav dropdowns display error with Firefox](https://github.com/picocss/pico/issues/701)
 - [#696 🛠️ Missing styling for `<var>` element](https://github.com/picocss/pico/issues/696) + [#695](https://github.com/picocss/pico/discussions/695)
-- [#670 🐞 Slow website picocss.com](https://github.com/picocss/pico/issues/670) + [#718](https://github.com/picocss/pico/pull/718) (`box-shadow` performance issues)
+- [#670 🐞 Slow website picocss.com](https://github.com/picocss/pico/issues/670) [↗](https://github.com/picocss/pico/pull/718) (`box-shadow` performance issues)
 - [#513 🐞 Image element attribute height is overridden](https://github.com/picocss/pico/issues/513)
-- [#482 🧩 PicoCSS Scale](https://github.com/picocss/pico/discussions/482)
+- [#482 🧩 Pico CSS Scale](https://github.com/picocss/pico/discussions/482)
 
 See fixes in action:
 
