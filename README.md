@@ -40,7 +40,7 @@ See fixes in action:
 1. Demo: [@picocss/pico issues reproduced](https://codepen.io/anydigital/full/WbGgbJd) (where applicable)
 2. Demo: [@anyblades/blades running without issues](https://codepen.io/anydigital/full/YPGOXWV) (on exact same markup!)
 
-Every Blades build includes the actual `.diff` with exact changes against "canonical" `pico.css`:
+Every Blades build includes the actual `.diff` with exact changes against "canonical" `pico.css`: <!--{#diff}-->
 
 - https://github.com/anyblades/blades/blob/main/css/pico.css.diff
 - https://github.com/anyblades/blades/blob/main/css/pico.min.css.diff
