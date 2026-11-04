@@ -20,6 +20,7 @@ Pico issues resolved in Blades:
 
 - [#751 🛠️ Button focus ring measures 1.77:1 (light) and 2.01:1 (dark), where SC 1.4.11 asks 3:1](https://github.com/picocss/pico/issues/751)
 - [#744 🧩 Proposal: Classless Dropdown component leveraging Popover API](https://github.com/picocss/pico/discussions/744)
+- [#742 🧩 Update dialog to modern CSS](https://github.com/picocss/pico/discussions/742)
 - [#740 🛠️ Remove nonessential npm-run-all dependency to reduce supply chain attack surface](https://github.com/picocss/pico/issues/740)
 - [#738 🐞 Submit button margin affecting siblings within .grid](https://github.com/picocss/pico/issues/738)
 - [#734 🐞 RTL breadcrumbs add weird backslashes](https://github.com/picocss/pico/issues/734)
