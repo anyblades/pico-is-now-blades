@@ -12,7 +12,7 @@
 
 ---
 
-### What's fixed?
+### What's fixed? <!--{#fixes}-->
 
 Blades focuses exclusively on the `pico.css` version, similar to how [simple.css](https://github.com/kevquirk/simple.css) is maintained (for Sass version check [@Yohn's fork](https://github.com/Yohn/PicoCSS) instead).
 
