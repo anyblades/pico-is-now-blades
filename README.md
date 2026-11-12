@@ -31,6 +31,7 @@ Pico issues resolved in Blades:
 - [#701 🐞 Nav dropdowns display error with Firefox](https://github.com/picocss/pico/issues/701)
 - [#696 🛠️ Missing styling for `<var>` element](https://github.com/picocss/pico/issues/696) + [#695](https://github.com/picocss/pico/discussions/695)
 - [#670 🐞 Slow website picocss.com](https://github.com/picocss/pico/issues/670) [↗](https://github.com/picocss/pico/pull/718) (`box-shadow` performance issues)
+- [#591 🐞 RTL not working with new "group"](https://github.com/picocss/pico/issues/591)
 - [#513 🐞 Image element attribute height is overridden](https://github.com/picocss/pico/issues/513)
 - [#482 🧩 Pico CSS Scale](https://github.com/picocss/pico/discussions/482)
 
